@@ -1,0 +1,9 @@
+
+## Usage
+
+1. Place your accounts in `accounts.txt`, one per line, in the format:
+
+
+user1@example.com:password123
+user2@example.com:anotherpass
+
